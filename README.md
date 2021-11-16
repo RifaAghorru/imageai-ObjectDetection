@@ -15,5 +15,5 @@ Pre-trained dataset model
 
 Original image             |  Result
 :-------------------------:|:-------------------------:
-![Test Image 1](test.jpeg)  |  ![Test Image 4](imagenew1.jpg)
+![Test Image 1](test-image.jpg)  |  ![Test Image 4](output_result.jpg)
 
